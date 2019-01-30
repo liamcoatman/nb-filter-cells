@@ -15,7 +15,7 @@ def read_long_description() -> str:
 
 setup(
     name="nb-filter-cells",
-    version="0.0.1",
+    version="0.0.2",
     description="Filter Jupyter notebook cells by tag",
     long_description=read_long_description(),
     long_description_content_type="text/markdown",
