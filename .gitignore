@@ -3,3 +3,4 @@
 /dist/
 /filter_cells.egg-info/
 __pycache__/
+*.egg-info/
